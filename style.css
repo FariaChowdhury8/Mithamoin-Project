@@ -1,0 +1,39 @@
+
+.ff{
+  background-color: rgba(57, 68, 230, 0.205);
+}
+.bg{
+  background-color: rgb(20, 209, 146);
+}
+.b{
+  background-image: url("img/images\ \(11\).jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.banner{
+    background: linear-gradient(180deg, #252424 0%, rgba(17, 17, 17, 0) 100%),url(img/images\ \(5\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    height: 530px;
+  }
+
+  .a:hover{
+    opacity: 1;
+    transition: 5s;
+  }
+  .box{
+    width: 150px;
+    box-shadow: 0 0 20px 2px rgba(0, 0, 0, .1);
+    transition: 1s;
+  }
+  .box img{
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+  }
+.box:hover{
+  transform: scale(1.3);
+  z-index: 2;
+}
