@@ -5,12 +5,6 @@
 .bg{
   background-color: rgb(20, 209, 146);
 }
-.b{
-  background-image: url("img/images\ \(11\).jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
 .banner{
     background: linear-gradient(180deg, #252424 0%, rgba(17, 17, 17, 0) 100%),url(img/images\ \(5\).jpg);
     background-repeat: no-repeat;
